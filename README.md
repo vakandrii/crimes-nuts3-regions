@@ -25,7 +25,7 @@ on the dataset characteristics.
 1. **Setup**
    - Clone this repository to your local machine.
       ```bash
-      git clone https://github.com/your_username/your_repository.git
+      git clone https://github.com/vakandrii/crimes-nuts3-regions.git
       ```
    - Navigate to the project directory.
    - Launch Jupyter Notebook:
